@@ -1,0 +1,61 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right, white, pink);
+}
+
+header > h1 {
+    font-family: Rubik Scribble;
+    font-size: 50px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.nav_bar li{
+    display: inline-block;
+}
+#a{
+    text-decoration: none;
+    padding-right: 20px;
+}
+#b{
+    text-decoration: none;
+    padding-right: 20px;
+}
+#c{
+    text-decoration: none;
+    padding-right: 20px;
+}
+#d{
+    text-decoration: none;
+    padding-right: 20px;
+}
+
+.nav_bar{
+    background-color: yellowgreen;
+}
+
+.intro p{
+    text-align: center;
+    display : inline-block;
+}
+
+img {
+    width: 200px;
+    display : inline-block;
+    border-radius: 50%;
+}
+
+table{
+    border-collapse: collapse;
+    height: 100px;
+    margin: auto;
+}
+
+footer{
+    width: 100%;
+    background-color: rgb(19, 2, 2);
+    margin: 0;
+    bottom: 0;
+    padding: 0%;
+    color: aliceblue;
+    text-align: center;
+}
